@@ -4,6 +4,8 @@ Due to file size constrains I have uploaded the Files on the Google Drive.
 
 Google Drive Link:- https://drive.google.com/drive/u/0/folders/1p8s7vY7hnejoqDndcO5O_5MYYMs0AEsS
 
+Due To Free Tier limitations, i have currently terminated the app, but if you want to check it,try to leave an message to my email:-tejame050@gmail.com
+
 problem statement:-
 
 To build a classification methodology to predict the quality of wafer sensors based on the given training data. 
