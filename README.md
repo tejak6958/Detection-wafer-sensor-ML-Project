@@ -8,7 +8,7 @@ problem statement:-
 
 To build a classification methodology to predict the quality of wafer sensors based on the given training data. 
 The Instrumented Wafer (Thermocouples, Bonded Wafer or RTDs) finds application in semiconductor processing equipment where knowing and controlling the temperature at the surface of a wafer is critical. Inside the wafers they are multiple sensor which might be around 500-600 sensors.
-If they is an issue or crash with the sensor or wafer.
+If there is an issue or crash with the sensor or wafer.
 It is such that we cannot take chance even if an single wafer fails to response and sensor are installed might be around to 10,000 – 1,00,000 approximately on device. Such that our model will try to know the error or crash about the sensor or wafer to get an particular report based on it.
 
 Aim:-
